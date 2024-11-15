@@ -9,6 +9,10 @@ configuration:
     description: >-
       Path to WAV file to play when voice command is finished (empty to
       disable).
+  timer_finished_wav:
+    name: Timer finished WAV
+    description: >-
+      Path to WAV file to play when a timer is finished (empty to disable).
   noise_suppression:
     name: Noise suppression
     description: >-

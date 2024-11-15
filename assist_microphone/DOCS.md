@@ -24,6 +24,10 @@ Path to WAV file to play when wake word is detected (empty to disable, default i
 
 Path to WAV file to play when voice command is finished (empty to disable, default is `/usr/src/sounds/done.wav`).
 
+### Option: `timer_finished_wav`
+
+Path to WAV file to play when timer is done (empty to disable, default is `/usr/src/sounds/done.wav`).
+
 ### Option: `noise_suppression`
 
 Noise suppression level (0 is disabled, 4 is max). Disabled by default.
