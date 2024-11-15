@@ -26,7 +26,7 @@ Path to WAV file to play when voice command is finished (empty to disable, defau
 
 ### Option: `timer_finished_wav`
 
-Path to WAV file to play when timer is done (empty to disable, default is `/usr/src/sounds/done.wav`).
+Path to WAV file to play when timer is done (empty to disable, default is `/usr/src/sounds/timer-finished.wav`).
 
 ### Option: `noise_suppression`
 
